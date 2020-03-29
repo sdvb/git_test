@@ -1,2 +1,2 @@
 # git_test
-Odin git repo
+Odin git repo - first project
